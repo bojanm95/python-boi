@@ -55,7 +55,7 @@
             "request": "launch",
             "module": "flask",
             "env": {
-                "FLASK_APP": "src.webapp.py"
+                "FLASK_APP": "source.webapp.py"
             },
             "args": [
                 "run",
